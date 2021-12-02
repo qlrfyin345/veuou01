@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/用户名/仓库名",
-  "repository": "https://github.com/用户名/仓库名",
+  "website": "https://github.com/qlrfyin345/veuou01",
+  "repository": "https://github.com/qlrfyin345/veuou01",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
